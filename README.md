@@ -1,5 +1,5 @@
 # Quantum hello world
-A timy project for exploring quantum computing.
+A tiny project for exploring quantum computing.
 ## Install dependencies (tested on Ubuntu 20.04)
 ```sh
 wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb; \
